@@ -1,0 +1,141 @@
+Area,Qualification,Year,Pop,SH1
+Whangarei District,No qualification,2001,13866,
+Whangarei District,No qualification,2006,6888,
+Whangarei District,No qualification,2013,5118,
+Whangarei District,No qualification,2018,5493,
+Whangarei District,Level 1 - 4 certificate,2001,14247,
+Whangarei District,Level 1 - 4 certificate,2006,16074,
+Whangarei District,Level 1 - 4 certificate,2013,15210,
+Whangarei District,Level 1 - 4 certificate,2018,19953,
+Whangarei District,Level 5 - 6 diploma,2001,9735,
+Whangarei District,Level 5 - 6 diploma,2006,3717,
+Whangarei District,Level 5 - 6 diploma,2013,3528,
+Whangarei District,Level 5 - 6 diploma,2018,4875,
+Whangarei District,Level 7 or above qualification,2001,3156,
+Whangarei District,Level 7 or above qualification,2006,4164,
+Whangarei District,Level 7 or above qualification,2013,5760,
+Whangarei District,Level 7 or above qualification,2018,9060,
+Whangarei District,Overseas secondary school qualification,2001,1926,
+Whangarei District,Overseas secondary school qualification,2006,1020,
+Whangarei District,Overseas secondary school qualification,2013,1251,
+Whangarei District,Overseas secondary school qualification,2018,1242,
+Raumanga East,No qualification,2001,399,TRUE
+Raumanga East,Level 1 - 4 certificate,2001,312,TRUE
+Raumanga East,Overseas secondary school qualification,2001,24,TRUE
+Raumanga East,Level 5 - 6 diploma,2001,165,TRUE
+Raumanga East,Level 7 or above qualification,2001,24,TRUE
+Raumanga West,No qualification,2001,612,TRUE
+Raumanga West,Level 1 - 4 certificate,2001,513,TRUE
+Raumanga West,Overseas secondary school qualification,2001,57,TRUE
+Raumanga West,Level 5 - 6 diploma,2001,348,TRUE
+Raumanga West,Level 7 or above qualification,2001,48,TRUE
+Raumanga,No qualification,2006,294,TRUE
+Raumanga,No qualification,2013,198,TRUE
+Raumanga,No qualification,2018,204,TRUE
+Raumanga,Level 1 - 4 certificate,2006,528,TRUE
+Raumanga,Level 1 - 4 certificate,2013,408,TRUE
+Raumanga,Level 1 - 4 certificate,2018,669,TRUE
+Raumanga,Level 5 - 6 diploma,2006,96,TRUE
+Raumanga,Level 5 - 6 diploma,2013,84,TRUE
+Raumanga,Level 5 - 6 diploma,2018,153,TRUE
+Raumanga,Level 7 or above qualification,2006,75,TRUE
+Raumanga,Level 7 or above qualification,2013,123,TRUE
+Raumanga,Level 7 or above qualification,2018,165,TRUE
+Raumanga,Overseas secondary school qualification,2006,36,TRUE
+Raumanga,Overseas secondary school qualification,2013,30,TRUE
+Raumanga,Overseas secondary school qualification,2018,36,TRUE
+Tarewa,No qualification,2006,189,TRUE
+Tarewa,No qualification,2013,114,TRUE
+Tarewa,No qualification,2018,150,TRUE
+Tarewa,Level 1 - 4 certificate,2006,291,TRUE
+Tarewa,Level 1 - 4 certificate,2013,204,TRUE
+Tarewa,Level 1 - 4 certificate,2018,378,TRUE
+Tarewa,Level 5 - 6 diploma,2006,39,TRUE
+Tarewa,Level 5 - 6 diploma,2013,36,TRUE
+Tarewa,Level 5 - 6 diploma,2018,57,TRUE
+Tarewa,Level 7 or above qualification,2006,30,TRUE
+Tarewa,Level 7 or above qualification,2013,57,TRUE
+Tarewa,Level 7 or above qualification,2018,78,TRUE
+Tarewa,Overseas secondary school qualification,2006,12,TRUE
+Tarewa,Overseas secondary school qualification,2013,12,TRUE
+Tarewa,Overseas secondary school qualification,2018,15,TRUE
+Port-Limeburners,No qualification,2001,6,TRUE
+Port-Limeburners,No qualification,2006,9,TRUE
+Port-Limeburners,No qualification,2013,,TRUE
+Port-Limeburners,No qualification,2018,9,TRUE
+Port-Limeburners,Level 1 - 4 certificate,2001,9,TRUE
+Port-Limeburners,Level 1 - 4 certificate,2006,,TRUE
+Port-Limeburners,Level 1 - 4 certificate,2013,,TRUE
+Port-Limeburners,Level 1 - 4 certificate,2018,21,TRUE
+Port-Limeburners,Level 5 - 6 diploma,2001,6,TRUE
+Port-Limeburners,Level 5 - 6 diploma,2006,,TRUE
+Port-Limeburners,Level 5 - 6 diploma,2013,,TRUE
+Port-Limeburners,Level 5 - 6 diploma,2018,6,TRUE
+Port-Limeburners,Level 7 or above qualification,2001,0,TRUE
+Port-Limeburners,Level 7 or above qualification,2006,,TRUE
+Port-Limeburners,Level 7 or above qualification,2013,,TRUE
+Port-Limeburners,Level 7 or above qualification,2018,6,TRUE
+Port-Limeburners,Overseas secondary school qualification,2001,3,TRUE
+Port-Limeburners,Overseas secondary school qualification,2006,,TRUE
+Port-Limeburners,Overseas secondary school qualification,2013,,TRUE
+Port-Limeburners,Overseas secondary school qualification,2018,0,TRUE
+Riverside,No qualification,2001,120,FALSE
+Riverside,No qualification,2006,159,FALSE
+Riverside,No qualification,2013,120,FALSE
+Riverside,No qualification,2018,114,FALSE
+Riverside,Level 1 - 4 certificate,2001,159,FALSE
+Riverside,Level 1 - 4 certificate,2006,498,FALSE
+Riverside,Level 1 - 4 certificate,2013,447,FALSE
+Riverside,Level 1 - 4 certificate,2018,537,FALSE
+Riverside,Level 5 - 6 diploma,2001,138,FALSE
+Riverside,Level 5 - 6 diploma,2006,126,FALSE
+Riverside,Level 5 - 6 diploma,2013,99,FALSE
+Riverside,Level 5 - 6 diploma,2018,147,FALSE
+Riverside,Level 7 or above qualification,2001,72,FALSE
+Riverside,Level 7 or above qualification,2006,165,FALSE
+Riverside,Level 7 or above qualification,2013,168,FALSE
+Riverside,Level 7 or above qualification,2018,258,FALSE
+Riverside,Overseas secondary school qualification,2001,30,FALSE
+Riverside,Overseas secondary school qualification,2006,39,FALSE
+Riverside,Overseas secondary school qualification,2013,39,FALSE
+Riverside,Overseas secondary school qualification,2018,39,FALSE
+Sherwood Rise,No qualification,2001,720,FALSE
+Sherwood Rise,No qualification,2006,231,FALSE
+Sherwood Rise,No qualification,2013,174,FALSE
+Sherwood Rise,No qualification,2018,141,FALSE
+Sherwood Rise,Level 1 - 4 certificate,2001,756,FALSE
+Sherwood Rise,Level 1 - 4 certificate,2006,465,FALSE
+Sherwood Rise,Level 1 - 4 certificate,2013,417,FALSE
+Sherwood Rise,Level 1 - 4 certificate,2018,552,FALSE
+Sherwood Rise,Level 5 - 6 diploma,2001,564,FALSE
+Sherwood Rise,Level 5 - 6 diploma,2006,108,FALSE
+Sherwood Rise,Level 5 - 6 diploma,2013,93,FALSE
+Sherwood Rise,Level 5 - 6 diploma,2018,126,FALSE
+Sherwood Rise,Level 7 or above qualification,2001,129,FALSE
+Sherwood Rise,Level 7 or above qualification,2006,102,FALSE
+Sherwood Rise,Level 7 or above qualification,2013,126,FALSE
+Sherwood Rise,Level 7 or above qualification,2018,183,FALSE
+Sherwood Rise,Overseas secondary school qualification,2001,120,FALSE
+Sherwood Rise,Overseas secondary school qualification,2006,21,FALSE
+Sherwood Rise,Overseas secondary school qualification,2013,27,FALSE
+Sherwood Rise,Overseas secondary school qualification,2018,21,FALSE
+Onerahi,No qualification,2001,423,FALSE
+Onerahi,No qualification,2006,174,FALSE
+Onerahi,No qualification,2013,111,FALSE
+Onerahi,No qualification,2018,147,FALSE
+Onerahi,Level 1 - 4 certificate,2001,357,FALSE
+Onerahi,Level 1 - 4 certificate,2006,441,FALSE
+Onerahi,Level 1 - 4 certificate,2013,363,FALSE
+Onerahi,Level 1 - 4 certificate,2018,483,FALSE
+Onerahi,Level 5 - 6 diploma,2001,315,FALSE
+Onerahi,Level 5 - 6 diploma,2006,111,FALSE
+Onerahi,Level 5 - 6 diploma,2013,105,FALSE
+Onerahi,Level 5 - 6 diploma,2018,120,FALSE
+Onerahi,Level 7 or above qualification,2001,141,FALSE
+Onerahi,Level 7 or above qualification,2006,138,FALSE
+Onerahi,Level 7 or above qualification,2013,201,FALSE
+Onerahi,Level 7 or above qualification,2018,285,FALSE
+Onerahi,Overseas secondary school qualification,2001,48,FALSE
+Onerahi,Overseas secondary school qualification,2006,27,FALSE
+Onerahi,Overseas secondary school qualification,2013,45,FALSE
+Onerahi,Overseas secondary school qualification,2018,33,FALSE
